@@ -1,0 +1,4 @@
+python-telegram-bot==21.4
+replicate==1.0.1
+requests
+pydub
